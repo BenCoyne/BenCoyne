@@ -7,6 +7,7 @@
 - 🤝 Always looking to collaborate on exciting projects!
 - 🎸 When I'm not coding I'm making music! 
 
+
 #### Languages and Tools
 
 <img align="left" alt="ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
@@ -34,7 +35,6 @@
 
 <img alt="github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
-<br>
 
 #### To find out more about me click on the links below:
 
