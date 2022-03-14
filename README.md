@@ -8,4 +8,4 @@
 
 #### To find out more about me click on the links below:
 
-|<a href="https://github.com/BenCoyne/CV"> Read my CV </a>|
+<a href="https://github.com/BenCoyne/CV"> Read my CV </a>
