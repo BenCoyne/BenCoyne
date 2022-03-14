@@ -36,7 +36,7 @@
 <img alt="github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 
-#### To find out more about me click on the links below:
+#### To find out more about me click on the link below:
 
 <a href="https://github.com/BenCoyne/CV"> Read my CV </a>
 
