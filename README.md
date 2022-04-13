@@ -38,6 +38,6 @@
 
 #### To find out more about me click on the link below:
 
-<a href="https://github.com/BenCoyne/CV"> Read my CV </a>
+<a href="https://github.com/BenCoyne/CV"> Read my CV </a>     |     <a href="https://www.linkedin.com/in/ben-coyne-dev/"> Linkedin </a> 
 
 
