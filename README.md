@@ -1,4 +1,5 @@
-## 👋🌍 Welcome to my GitHub!
+<!-- ## 👋🌍 Welcome to my GitHub! -->
+![](https://github.com/BenCoyne/BenCoyne/blob/main/welcomeBanner.png)
 
 #### I'm Ben (He/Him), a musician turned Junior Full-Stack Developer and Makers Academy graduate.
 
