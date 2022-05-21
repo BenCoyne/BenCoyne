@@ -1,5 +1,6 @@
 <!-- ## 👋🌍 Welcome to my GitHub! -->
-![](https://github.com/BenCoyne/BenCoyne/blob/main/welcome.png)
+<!-- ![](https://github.com/BenCoyne/BenCoyne/blob/main/welcome.png) -->
+![](https://github.com/BenCoyne/BenCoyne/blob/main/My%20project.png)
 
 #### I'm Ben (He/Him), a musician turned Junior Full-Stack Developer and Makers Academy graduate.
 
