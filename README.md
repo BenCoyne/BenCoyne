@@ -2,10 +2,9 @@
 <!-- ![](https://github.com/BenCoyne/BenCoyne/blob/main/welcome.png) -->
 ![](https://github.com/BenCoyne/BenCoyne/blob/main/My%20project.png)
 
-#### I'm Ben (He/Him), a musician turned Junior Full-Stack Developer and Makers Academy graduate.
+#### I'm Ben (He/Him), a musician turned Software Developer and Makers Academy graduate.
 
-- 🔍 I'm currently looking for a role where I can continue to learn and further develop my programming skills.
-- 🌱 I'm currently learning React ⚛️ 
+- 🌱 I'm developing my knowledege of all things microservices 
 - 🤝 Always looking to collaborate on exciting projects!
 - 🎸 When I'm not coding I'm making music! 
 
